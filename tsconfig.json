@@ -12,7 +12,8 @@
       ],
       "@shared/*": [
         "shared/*"
-      ]
+      ],
+      "@components/*": ["client/src/components/*"]
     },
     "strict": true,
     "types": [
