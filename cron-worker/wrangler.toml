@@ -1,0 +1,9 @@
+name = "sunrise-squad-cron"
+main = "src/worker.ts"
+compatibility_date = "2025-08-14"
+
+[triggers]
+crons = ["0 0 * * *"]
+
+[vars]
+DATABASE_URL = ""
