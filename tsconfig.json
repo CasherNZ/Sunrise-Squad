@@ -1,6 +1,5 @@
 {
   "compilerOptions": {
-    "@assets/*": ["client/src/assets/*"],
     "target": "ES2022",
     "module": "ESNext",
     "moduleResolution": "Bundler",
